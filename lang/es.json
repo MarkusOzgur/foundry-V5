@@ -5,6 +5,7 @@
     
     "VTM5E.Health": "Salud",
     "VTM5E.Willpower": "Fuerza de Voluntad",
+    "VTM5E.WillpowerReroll": "Repetición",
     "VTM5E.Exp": "Exp",
     "VTM5E.Humanity": "Humanidad",
     "VTM5E.Hunger": "Ansia",
@@ -25,7 +26,7 @@
     "VTM5E.Description": "Descripción",
     "VTM5E.Equipment": "Equipo",
     "VTM5E.Notes": "Notas",
-    "VTM5E.Boons": "Bendiciones",
+    "VTM5E.Boons": "Favores",
     "VTM5E.Type": "Tipo",
     "VTM5E.Other": "Otro",
     "VTM5E.Attributes": "Atributos",
@@ -75,9 +76,10 @@
     "VTM5E.Specialty": "Especialidad",
     "VTM5E.Skill": "Habilidad",
     "VTM5E.AddItem": "Añadir",
+    "VTM5E.ShowToChat": "Mostrar al chat",
     "VTM5E.Edit": "Editar",
     "VTM5E.Delete": "Borrar",
-    "VTM5E.CustomRolls": "Tirand Personalizados",
+    "VTM5E.CustomRolls": "Tiradas Personalizadas",
 
     "VTM5E.Level": "Nivel",
     "VTM5E.Add": "Añadir",
@@ -102,7 +104,7 @@
     "VTM5E.AddFeat": "Añadir",
     "VTM5E.Merit": "Ventaja",
     "VTM5E.Flaw": "Defecto",
-    "VTM5E.Background": "Fondo",
+    "VTM5E.Background": "Transfondo",
     "VTM5E.Points": "Puntos",
 
     "VTM5E.BloodPotency": "Potencia de Sangre",
@@ -158,7 +160,7 @@
     "VTM5E.FeatureType": "Tipo de rasgo",
 
     "VTM5E.RollingWillpower": "Tirando Fuerza de Voluntad",
-    "VTM5E.RollingRemorse": "Tirando del Remordimiento",
+    "VTM5E.RollingRemorse": "Tirando Remordimiento",
     "VTM5E.RousingBlood": "Enardeciendo la Sangre",
     "VTM5E.ResistingFrenzy": "Resistiendo el Frenesí",
     "VTM5E.CriticalSuccess": "¡Éxito crítico!",
